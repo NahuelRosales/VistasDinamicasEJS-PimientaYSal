@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Risotto de berenjena con queso de cabra",
+        "descripcion": "Un delicioso Risotto de berenjena con queso de cabra como los de la abuela",
+        "precio": "U$S 5.50",
+        "imagen": "/images/Risotto-berenjena-queso-cabra.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Carpaccio salmón",
+        "descripcion": "Un rico salmón a la carpaccio",
+        "precio": "U$S 56.50",
+        "imagen": "/images/Carpaccio-de-salmon.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Esparragos",
+        "descripcion": "Altos esparragos",
+        "precio": "U$S 100",
+        "imagen": "/images/esparragos.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Mousse de arroz con leche",
+        "descripcion": "Mousse de arroz con leche Ñami-Ñami",
+        "precio": "U$S 20",
+        "imagen": "/images/Mousse-de-arroz-con-leche.jpg"
+    }
+    
+
+]
